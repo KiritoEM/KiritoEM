@@ -30,17 +30,11 @@
   </a></p>
 
 
-
-
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiritoem&show_icons=true&locale=en&layout=compact" alt="kiritoem" /></p>
 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiritoem&" alt="kiritoem" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiritoem&show_icons=true&locale=en" alt="kiritoem" /></p>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiritoem&" alt="kiritoem" /></p>
 
