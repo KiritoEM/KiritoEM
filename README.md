@@ -1,7 +1,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Johan</h1>
 <h3 align="center">A Javascript developer from Madagascar, passionate about new challenges, new innovative projects and new discoveries on Javascript Frameworks. I generally use MERN Stack to build a powerful and modern web application, but in general, I use React JS since I really love this language</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="margin-top: 20px;">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="margin-top: 40px;">
 
 - 🌱 I’m currently learning **React and his World**
 
