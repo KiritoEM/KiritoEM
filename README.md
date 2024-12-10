@@ -23,7 +23,7 @@
 <h3 align="left">Langages et outils :</h3>
 ![Visitor Count](https://profile-counter.glitch.me/kiritoEM/count.svg)
 
-<p style="margin-top: 20px;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiritoem&show_icons=true&locale=en" alt="kiritoem" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiritoem&show_icons=true&locale=en" alt="kiritoem" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiritoem&show_icons=true&locale=en&layout=compact" alt="kiritoem" /></p>
 
