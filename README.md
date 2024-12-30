@@ -1,6 +1,6 @@
 </div>
 <h1 align="start">Bonjour 👋, Je suis Emadisson Loick</h1>
-<h3 align="start">Un développeur Javascript originaire de Madagascar, passionné par les nouveaux challenges, les nouveaux projets innovants et les nouvelles découvertes sur les Frameworks Javascript. J'utilise généralement MERN Stack pour créer une application web puissante et moderne, mais en général, j'utilise React JS car j'aime vraiment ce langage
+<h3 align="start">Un développeur Javascript originaire de Madagascar, passionné par les nouveaux challenges, les nouveaux projets innovants et les nouvelles découvertes sur les Frameworks Javascript.
 </h3>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2442115/screenshots/8699490/dec-01-2019_19-16-16.gif"  style="margin-top: 20px;">
