@@ -40,11 +40,9 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/kiritoEM/count.svg)
 
-<p img align="center">< src="https://github-readme-streak-stats.herokuapp.com/?user=kiritoem&show_icons=true&locale=en" alt="kiritoem" /></p>
+<p img align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kiritoem&show_icons=true&locale=en" alt="kiritoem" /></p>
 
-<p align="center" style="display: flex; flex-direction : column ; gap: "30px";">
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiritoem&show_icons=true&locale=en&layout=compact" alt="kiritoem" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiritoem&show_icons=true&locale=en&layout=compact" alt="kiritoem" /></p>
 
-<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=kiritoem&show_icons=true&locale=en" alt="kiritoem" /></p>
-</p>
+<p align="left">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=kiritoem&show_icons=true&locale=en" alt="kiritoem" /></p>
 
