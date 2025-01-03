@@ -46,5 +46,5 @@
 
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=kiritoem&show_icons=true&locale=en" alt="kiritoem" /></p>
 
-<div>![snake gif](https://github.com/ChaitanyaLonarkar/ChaitanyaLonarkar/blob/output/github-contribution-grid-snake-dark.svg)</div>
+![snake gif](https://github.com/ChaitanyaLonarkar/ChaitanyaLonarkar/blob/output/github-contribution-grid-snake-dark.svg)
 
