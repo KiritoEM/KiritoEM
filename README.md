@@ -6,7 +6,9 @@
   
 </div>
 
-<h1 align="start">Bonjour 👋, Je suis Emadisson Loick</h1>
+<h1 align="center">Bonjour 👋, Je suis Emadisson Loick</h1>
+
+
 <h3 align="start">Un développeur Javascript originaire de Madagascar, passionné par les nouveaux challenges, les nouveaux projets innovants et les nouvelles découvertes sur les Frameworks Javascript.
 </h3>
 
