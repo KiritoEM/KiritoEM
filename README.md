@@ -17,7 +17,7 @@
 <a href="https://fb.com/ema disson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ema disson" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Langages et outils :</h3>
+<h3 align="left">Langages et outils 💻</h3>
 <p align="center" style="display: flex; flex-direction : column ; gap: "30px";">
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css"/> </a>
