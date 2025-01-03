@@ -12,13 +12,13 @@
 <h3 align="center">Un développeur Javascript originaire de Madagascar, passionné par les nouveaux challenges, les nouveaux projets innovants et les nouvelles découvertes sur les Frameworks Javascript.
 </h3>
 
-
+<p align="center">
 - 🌱 J'apprends actuellement **React et son monde**
 
 - 💬 Demande moi à propos de **React , Node , Next**
 
 - 📫 Comment me joindre **johankirito64@gmail.com**
-
+</p>
 
 
 <h3 align="left">Connectez-vous avec moi :</h3>
