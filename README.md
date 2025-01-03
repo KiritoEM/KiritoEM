@@ -37,14 +37,16 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="typescript"/> </a>
 
 <h3 align="left">Nombre de visiteurs</h3>
+<img src="" alt="sass"/>
 
-![Visitor Count](https://profile-counter.glitch.me/kiritoEM/count.svg)
+
 
 <p img align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kiritoem&show_icons=true&locale=en" alt="kiritoem" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiritoem&show_icons=true&locale=en&layout=compact" alt="kiritoem" /></p>
 
-<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=kiritoem&show_icons=true&locale=en" alt="kiritoem" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=kiritoem&show_icons=true&locale=en" alt="kiritoem" /></p>
 
-![snake gif](https://github.com/ChaitanyaLonarkar/ChaitanyaLonarkar/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="./github-user-contribution.svg" />
+
 
