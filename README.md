@@ -22,7 +22,7 @@
 
 <h3 align="left">Connectez-vous avec moi :</h3>
 <p align="left">
-<a href="www.linkedin.com/in/loick-emadisson-672442296" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johan emadisson" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/loick-emadisson-672442296/" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johan emadisson" height="30" width="40" /></a>
 <a href="https://www.facebook.com/loickemadisson" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ema disson" height="30" width="40" /></a>
 </p>
 
