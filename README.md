@@ -6,7 +6,7 @@
   
 </div>
 
-<h1 align="center">Hi 👋, Je suis Emadisson Loick  <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiritoem&label=Profile%20views&color=0e75b6&style=flat" alt="Liantsoamiarina" align="center" /> </p></h1>
+<h1 align="center">Hi 👋, Je suis Emadisson Loick  <p align="center"> <img src="https://komarev.com/ghpvc/?username=kiritoem&label=Profile%20views&color=0e75b6&style=flat" alt="Liantsoamiarina" align="center" /> </p></h1>
 
 
 
