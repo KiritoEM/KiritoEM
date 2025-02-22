@@ -10,7 +10,7 @@
 
 
 
-<h3 align="center">Un développeur Javascript originaire de Madagascar, passionné par les nouveaux challenges, les nouveaux projets innovants et les nouvelles découvertes sur les Frameworks Javascript.
+<h3 align="center">Un développeur originaire de Madagascar, passionné par les nouveaux challenges, les nouveaux projets innovants et les nouvelles découvertes sur le langage Javascript.
 </h3>
 
 
