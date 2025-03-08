@@ -6,19 +6,18 @@
   
 </div>
 
-<h1 align="center">Hi 👋, Je suis Emadisson Loick  <p align="center"> <img src="https://komarev.com/ghpvc/?username=kiritoem&label=Profile%20views&color=0e75b6&style=flat" alt="Liantsoamiarina" align="center" /> </p></h1>
+<h1 align="center">Hi 👋, I'm Emadisson Loick  <p align="center"> <img src="https://komarev.com/ghpvc/?username=kiritoem&label=Profile%20views&color=0e75b6&style=flat" alt="Liantsoamiarina" align="center" /> </p></h1>
 
 
 
-<h3 align="center">Un développeur originaire de Madagascar, passionné par les nouveaux challenges, les nouveaux projets innovants et les nouvelles découvertes sur le langage Javascript.
-</h3>
+<h3 align="center">A developer from Madagascar, passionate about new challenges, new innovative projects and new discoveries about the Javascript language.</h3>
 
 
-- 🌱 J'apprends actuellement **React et son monde**
+- 🌱 I am currently learning **React et son monde**
 
-- 💬 Demande moi à propos de **React , Node , Next**
+- 💬 Ask me about **React , Node , Next**
 
-- 📫 Comment me joindre **johankirito64@gmail.com**
+- 📫 How to contact me **johankirito64@gmail.com**
 
 
 <h3 align="left">Connectez-vous avec moi :</h3>
@@ -29,7 +28,7 @@
 
 
 
-<h3 align="left">Langages et outils 💻</h3>
+<h3 align="left">Langages and tools 💻</h3>
 <p align="left" style="display: flex; flex-direction : column ; gap: 30;">
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css"/> </a>
