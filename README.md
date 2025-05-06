@@ -13,7 +13,7 @@
 <h3 align="center">A developer from Madagascar, passionate about new challenges, new innovative projects and new discoveries about the Javascript language.</h3>
 
 
-- 🌱 I am currently learning **React et son monde**
+- 🌱 I am currently learning **React and his world**
 
 - 💬 Ask me about **React , Node , Next**
 
